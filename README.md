@@ -1,5 +1,5 @@
 # Laboratorio 13 - Laravel_Angular
-Integrante:
+Integrantes:
 
 - Bolaños Erick
 - Pizarra Jhonathan
